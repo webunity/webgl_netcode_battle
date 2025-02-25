@@ -1,1 +1,1 @@
-https://webunity.github.io/webgl_netcode_POLYGON_Battle/
+https://webunity.github.io/webgl_netcode_battle/
